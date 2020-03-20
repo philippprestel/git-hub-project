@@ -226,7 +226,7 @@ def user_stats(df):
             break
         else:
             print("\nNot a valid entry - please type 'Yes' or 'No'")
-     
+    
 print("Thank you!")
      
 def main():
